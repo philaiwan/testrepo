@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 promotion1
 promotion2
+=======
+promotion test
+>>>>>>> test
