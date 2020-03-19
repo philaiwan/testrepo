@@ -1,2 +1,3 @@
 test 12345
-edit commit
+edit commit (push)
+edit pull
