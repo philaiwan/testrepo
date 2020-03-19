@@ -2,3 +2,4 @@ test 12345
 edit commit (push)
 edit pull
 merge
+test merge
